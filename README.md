@@ -11,10 +11,6 @@
 
 ![BloodVault UI](https://i.ibb.co/ngRmdjw/image-2021-09-27-02-54-34.png)
 
-## About
-
-BloodVault is a web application that manages blood bank donor information through a clean, Bootstrap-styled interface. It demonstrates the four fundamental database operations — **Create**, **Read**, **Update**, and **Delete** — using Django's MVT (Model-View-Template) architecture.
-
 ### Features
 
 - **Add Donors** — Register new blood donors with name, email, and blood group
