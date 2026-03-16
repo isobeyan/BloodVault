@@ -70,6 +70,8 @@ crudproject/
    cd BloodBankCRUD
    ```
 
+   > **Note:** A rename to **BloodVault** is planned. Update the URL above if the repository has been renamed.
+
 2. **Create and activate a virtual environment**
 
    ```bash
