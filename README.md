@@ -31,9 +31,9 @@
 ## Project Structure
 
 ```
-crudproject/
+bloodvault/
 ├── manage.py                       # Django management utility
-├── crudproject/                    # Project configuration
+├── bloodvault/                     # Project configuration
 │   ├── settings.py                 # Django settings
 │   ├── urls.py                     # Root URL routing
 │   ├── wsgi.py                     # WSGI entry point
@@ -62,11 +62,9 @@ crudproject/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/isobeyan/BloodBankCRUD.git
-   cd BloodBankCRUD
+   git clone https://github.com/isobeyan/BloodVault.git
+   cd BloodVault
    ```
-
-   > **Note:** A rename to **BloodVault** is planned. Update the URL above if the repository has been renamed.
 
 2. **Create and activate a virtual environment**
 
@@ -84,7 +82,7 @@ crudproject/
 4. **Apply database migrations**
 
    ```bash
-   cd crudproject
+   cd bloodvault
    python manage.py migrate
    ```
 
