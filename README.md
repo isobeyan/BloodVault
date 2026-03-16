@@ -62,11 +62,9 @@ crudproject/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/isobeyan/BloodBankCRUD.git
-   cd BloodBankCRUD
+   git clone https://github.com/isobeyan/BloodVault.git
+   cd BloodVault
    ```
-
-   > **Note:** A rename to **BloodVault** is planned. Update the URL above if the repository has been renamed.
 
 2. **Create and activate a virtual environment**
 
