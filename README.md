@@ -31,9 +31,9 @@
 ## Project Structure
 
 ```
-bloodvault/
+crudproject/
 ├── manage.py                       # Django management utility
-├── bloodvault/                     # Project configuration
+├── crudproject/                    # Project configuration
 │   ├── settings.py                 # Django settings
 │   ├── urls.py                     # Root URL routing
 │   ├── wsgi.py                     # WSGI entry point
@@ -82,7 +82,7 @@ bloodvault/
 4. **Apply database migrations**
 
    ```bash
-   cd bloodvault
+   cd crudproject
    python manage.py migrate
    ```
 
